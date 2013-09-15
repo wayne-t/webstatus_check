@@ -47,11 +47,11 @@ function Visit($url){
 }
 function Print_Form()
 {
-echo "<h3> Enter a webpage and see whether it's up </h3></p>";
-echo "<form  method=\"post\">";
-echo "<p>URL: <input type=\"text\" name=\"link\" /></p>";
-echo "<p><input type=\"submit\" name=\"submit\" value=\"check\" />";
-echo "</form>";
+  echo "<h3> Enter a webpage and see whether it's up </h3></p>";
+  echo "<form  method=\"post\">";
+  echo "<p>URL: <input type=\"text\" name=\"link\" /></p>";
+  echo "<p><input type=\"submit\" name=\"submit\" value=\"check\" />";
+  echo "</form>";
 }
 
 if($url != "")
