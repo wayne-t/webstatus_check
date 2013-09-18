@@ -58,7 +58,7 @@ if($url != "")
 {
   if (Visit($url))
   {  Print_Form();
-       echo "<br> <h3> Website '$url' is UP </h3>";
+       echo "<br> <h3> Website '$url' is UP Now </h3>";
   }
   else
   {  Print_Form();
