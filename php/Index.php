@@ -28,6 +28,7 @@ else
 <br/><h2> Hello </h2>
 
 <?php
+
 function Visit($url){
   $agent = "Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)";
   $ch=curl_init();
@@ -71,5 +72,6 @@ else
   Print_Form();
 } 
 ?>
+
 </body>
 </html>
