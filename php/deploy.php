@@ -143,7 +143,7 @@ class Deploy {
 }
 
 // This is just an example
-$deploy = new Deploy('http://webstatuscheck-webdeploy.rhcloud.com/');
+$deploy = new Deploy('C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\php');
 
 /**
  * following section comment off since it's not needed for this project
