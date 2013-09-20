@@ -14,28 +14,19 @@ Version & PHP version)
 4. https://help.github.com/articles/set-up-git (set up github)
 5. http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html (return code of web status)
 6. http://css-tricks.com/snippets/php/check-if-website-is-available/ (sample code)
-7. http://code.google.com/p/xampp-php-extensions/downloads/detail?name=php_curl.dll&can=2&q= 
-(php_curl.dll download)
+7. http://code.google.com/p/xampp-php-extensions/downloads/detail?name=php_curl.dll&can=2&q= (php_curl.dll download)
 8. https://help.github.com/articles/generating-ssh-keys (ssh connection for github)
-9. http://pierrchen.blogspot.com/2011/09/working-same-github-repository-from-two.html (2 computer 
-one repository for github)
-10.http://stackoverflow.com/questions/18676856/display-php-post-results-after-a-form-submit-then
--reload-same-blank-form-when-p (display result using same index.php file)
-11.http://w3schools.invisionzone.com/index.php?showtopic=25145 (inspired to display on the same 
-search page)
+9. http://pierrchen.blogspot.com/2011/09/working-same-github-repository-from-two.html (2 computers, 1 repository for github)
+10.http://stackoverflow.com/questions/18676856/display-php-post-results-after-a-form-submit-then-reload-same-blank-form-when-p (display result using same index.php file)
+11.http://w3schools.invisionzone.com/index.php?showtopic=25145 (inspired to display on the same search page)
 12.https://www.openshift.com/ (openshift registration)
-13.https://www.openshift.com/kb/kb-e1006-sync-new-git-repo-with-your-own-existing-git-repo (as 
-subject)
+13.https://www.openshift.com/kb/kb-e1006-sync-new-git-repo-with-your-own-existing-git-repo (as subject)
 14.http://webdeploy.comli.com/ (another free hosting)
-15.https://www.openshift.com/kb/kb-e1015-how-to-resolve-permission-denied-errors-permission-
-denied-publickeygssapi-keyexgssapi-wi (for openshift, had to add ssh keys to git prog directory)
-16.https://openshift.redhat.com/app/console/application/test/get_started?wizard=true (test 
-application)
+15.https://www.openshift.com/kb/kb-e1015-how-to-resolve-permission-denied-errors-permission-denied-publickeygssapi-keyexgssapi-wi (for openshift, had to add ssh keys to git prog directory)
+16.https://openshift.redhat.com/app/console/application/test/get_started?wizard=true (test application)
 17.http://webstatuscheck-webdeploy.rhcloud.com/ (final deployed application)
-18.http://brandonsummers.name/blog/2012/02/10/using-bitbucket-for-automated-deployments/ (deploy 
-php triggered by git host such as bitbucket and github)
+18.http://brandonsummers.name/blog/2012/02/10/using-bitbucket-for-automated-deployments/ (deploy php triggered by git host such as bitbucket and github)
 19.https://github.com/mboynes/github-deploy (another reference to deploy)
-20.http://stackoverflow.com/questions/651038/how-do-you-clone-a-git-repository-into-a-specific-
-folder(how to clone git repository to a folder with different name then repository name in git)
+20.http://stackoverflow.com/questions/651038/how-do-you-clone-a-git-repository-into-a-specific-folder(how to clone git repository to a folder with different name then repository name in git)
 21.https://github.com/web-deploy/webstatus_check (source code)
 
