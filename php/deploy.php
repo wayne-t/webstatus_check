@@ -124,7 +124,8 @@ class Deploy {
           exec('chmod -R og-rx .git');
           $this->log('Securing .git directory... ');
 
-          /* following section comment off since it's not needed for this project
+          /**
+           * following section comment off since it's not needed for this project
           if (is_callable($this->post_deploy))
           {
               call_user_func($this->post_deploy, $this->_data);
@@ -144,7 +145,8 @@ class Deploy {
 // This is just an example
 $deploy = new Deploy('http://webstatuscheck-webdeploy.rhcloud.com/');
 
-/* following section comment off since it's not needed for this project
+/**
+ * following section comment off since it's not needed for this project
 $deploy->post_deploy = function() use ($deploy) {
   // hit the wp-admin page to update any db changes
   exec('curl http://www.foobar.com/wp-admin/upgrade.php?step=upgrade_db');
